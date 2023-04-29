@@ -20,7 +20,7 @@
 
 <p align="center"> Building a Java-based application that uses JDBC (Java Database Connectivity) to connect with a MySQL database. The project involves creating a "Book-Shop" database.
 
-    <br> 
+    
 </p>
 
 ## 📝 Table of Contents
@@ -35,7 +35,7 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-This is my portfolio project which demonstrates my abilities in building a completely based on JDBC i.e Java Database Connectivity. Using Mysql and Java Eclipse ide i Create Database Connection and Create Database i.e the Namely “ Book-Shop” In these Database User stores Many No of Books information  like Book name its Edition and its Price He Display all Data. And Also User Make Many Operations On it He can Save Book Data , Update Book Data , Delete Book Data and Clear Book Data .
+This is my Book Shop Management project which demonstrates my abilities in building a completely based on JDBC i.e Java Database Connectivity. Using Mysql and Java Eclipse ide i Create Database Connection and Create Database i.e the Namely “ Book-Shop” In these Database User stores Many No of Books information  like Book name its Edition and its Price He Display all Data. And Also User Make Many Operations On it He can Save Book Data , Update Book Data , Delete Book Data and Clear Book Data .
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 Set up your development environment Create your MySQL database and tables Create a new Java project in Eclipse Add the JDBC driver to your project Create a new JFrame form using Windows Builder Add GUI components to the JFrame form Implement the CRUD operations in your Java code Test your application..
