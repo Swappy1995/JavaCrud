@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="C:\Users\SWAPNIL\Downloads\bookshop_logo.png" alt="Project logo"></a>
+ <img width=200px height=200px src="https://github.com/Swappy1995/JavaCrud/blob/master/bookshop_logo.png" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Book Shop Management</h3>
