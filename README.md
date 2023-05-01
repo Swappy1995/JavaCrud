@@ -47,6 +47,8 @@ To run the Book Shop project using JDBC and MySQL in Eclipse IDE with a Windows 
 2.Open Eclipse and import the project as a Java project
 3.Add the JDBC driver to the project's classpath
 4.Run the JavaCrud.java file to start the application
+
+
 ## 🔧 Running the tests <a name = "tests"></a>
 First Go into Eclipse IDE and you can run the program using Java Application Right click on project and run as java apllication. load the JDBC driver after it automatically establish connection then application Window are open.That is Book Shop Window.
 
@@ -72,12 +74,12 @@ This project allows you to:
 -EclipseIDE - Java IDE
 
 ## ✍️ Authors <a name = "authors"></a>
-- Swapnil Jadhav - Idea & Initial work
+- @Swapnil Jadhav - Idea & Initial work
 
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Instruct me for project: - @juniedenysolomon
-- Inspiration:-@bhupendraparihar
-- References:-@junniedenysolomon
+- Inspiration:-Skill-Lync
+- References:- Tutussfunny.com/java-crud-step-by-step-in-eclipse/
 
