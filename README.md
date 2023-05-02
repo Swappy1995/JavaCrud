@@ -80,6 +80,5 @@ This project allows you to:
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Instruct me for project: - @juniedenysolomon
-- Inspiration:-Skill-Lync
-- References:- Tutussfunny.com/java-crud-step-by-step-in-eclipse/
+- References:- Skill-Lync
 
